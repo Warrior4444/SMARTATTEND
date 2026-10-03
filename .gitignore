@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+database/
+models/
+data/
+exports/
+
+*.db
+*.sqlite
+*.sqlite3
+
+.env
